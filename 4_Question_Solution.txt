@@ -1,0 +1,21 @@
+Tag:
+In HTML, tags are used to define content the structure of wb page .
+Html tags are combined of opening and closing tag, and they enclose content yo indicate how that content should be presented or formatted on the web page.
+
+Examples
+
+1.<h1></h1> , <p></P> etc.
+
+<p>this is a aeroplane</p>
+
+In 9th line <p> is a opening tag and </p> is a closing tag .
+
+Element:
+In Html, an element is a fundamental building block that defines the structure and content of a "Document". the opening tag and closing tags, along with the content between them , collectively from the element. 
+
+Examples-
+
+<h1> this is example 1 </h1>
+<p> this is example 2 </p>
+
+-This is example 1 , and this is example 2 both are element .

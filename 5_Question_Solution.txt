@@ -1,0 +1,15 @@
+DOCTYPE DECLARATION :
+
+The DOCTYPE declaration is a special instruction that helps browser render the webp page correctly. Its primary goal is to define the rules that the markup language must follow. The most common declaration "DOCTYPE html" , indicates the use of "HTML5" , the latest version of html .
+
+Example of a Doctype declaration for HTML5:
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title> DOCTYPE declaration </title>
+</head>
+<body>
+    <!-- html content/element goes here  -->
+</body>
+</html>

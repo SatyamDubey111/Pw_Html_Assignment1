@@ -1,0 +1,27 @@
+In HTML (Hypertext Markup Language), comments are used to insert explanatory notes , providing information to other devlopers. And comments are not displayed in the web browsers.
+comments are for the benefit of developers and are not meant to be seen by the users visiting the website.
+
+Example_
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Do not display on the web browser</title>
+</head>
+<body>
+    <!--<h1>this is not going to render on the web page</h1>
+<!--<p>loream ipsum dolar sit</P>
+<!--<h3>APJ abdul kalam is great scientist of our india he invented lot of misiles for india</h3>
+
+
+<!--loream ipsum dolar sit "used foe multi line comment" ,this is school, this is book , i want to play in garden-->
+
+</body>
+</html>
+
+
+HOW TO USE --
+<!-- This comment. It won't be displayed in the browser.--> this is a single line comment and won't be rendered on web page.
+
+<!-- Abc.. --> this is used for multiline comment and this also won't be rendered on the web page. 
